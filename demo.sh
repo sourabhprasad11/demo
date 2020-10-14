@@ -7,5 +7,6 @@ echo "there"
 echo "Hello There"
 
 
-echo "Hii DEltasyi"
+
+echo "Friendly"
 
