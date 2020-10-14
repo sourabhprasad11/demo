@@ -2,3 +2,6 @@
 
 echo "Hello"
 echo "Hello There"
+
+
+echo "Friendly"
